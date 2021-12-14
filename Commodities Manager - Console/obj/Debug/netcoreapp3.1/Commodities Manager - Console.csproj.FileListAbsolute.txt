@@ -1,0 +1,13 @@
+D:\Study\Programming Intro\Commodities Manager - Console\Commodities Manager - Console\bin\Debug\netcoreapp3.1\Commodities Manager - Console.exe
+D:\Study\Programming Intro\Commodities Manager - Console\Commodities Manager - Console\bin\Debug\netcoreapp3.1\Commodities Manager - Console.deps.json
+D:\Study\Programming Intro\Commodities Manager - Console\Commodities Manager - Console\bin\Debug\netcoreapp3.1\Commodities Manager - Console.runtimeconfig.json
+D:\Study\Programming Intro\Commodities Manager - Console\Commodities Manager - Console\bin\Debug\netcoreapp3.1\Commodities Manager - Console.runtimeconfig.dev.json
+D:\Study\Programming Intro\Commodities Manager - Console\Commodities Manager - Console\bin\Debug\netcoreapp3.1\Commodities Manager - Console.dll
+D:\Study\Programming Intro\Commodities Manager - Console\Commodities Manager - Console\bin\Debug\netcoreapp3.1\Commodities Manager - Console.pdb
+D:\Study\Programming Intro\Commodities Manager - Console\Commodities Manager - Console\obj\Debug\netcoreapp3.1\Commodities Manager - Console.csproj.AssemblyReference.cache
+D:\Study\Programming Intro\Commodities Manager - Console\Commodities Manager - Console\obj\Debug\netcoreapp3.1\Commodities Manager - Console.AssemblyInfoInputs.cache
+D:\Study\Programming Intro\Commodities Manager - Console\Commodities Manager - Console\obj\Debug\netcoreapp3.1\Commodities Manager - Console.AssemblyInfo.cs
+D:\Study\Programming Intro\Commodities Manager - Console\Commodities Manager - Console\obj\Debug\netcoreapp3.1\Commodities Manager - Console.csproj.CoreCompileInputs.cache
+D:\Study\Programming Intro\Commodities Manager - Console\Commodities Manager - Console\obj\Debug\netcoreapp3.1\Commodities Manager - Console.dll
+D:\Study\Programming Intro\Commodities Manager - Console\Commodities Manager - Console\obj\Debug\netcoreapp3.1\Commodities Manager - Console.pdb
+D:\Study\Programming Intro\Commodities Manager - Console\Commodities Manager - Console\obj\Debug\netcoreapp3.1\Commodities Manager - Console.genruntimeconfig.cache
